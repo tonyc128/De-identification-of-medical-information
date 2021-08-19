@@ -1,6 +1,6 @@
 # 醫病資料去識別化 Aicup 2020
 本實驗使用nlp套件 kashigari 來做NER的任務。
-實驗結果:約為71%，排名約在1/3左右。
+實驗結果:約為71%
 
 ![](https://i.imgur.com/93M0fwh.jpg)
 
