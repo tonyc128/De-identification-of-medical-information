@@ -16,4 +16,4 @@
 將讀進的train2切成上圖的形式，才能再丟進kashigari內訓練。
 
 ## predict_biLSTM_CRF
-讀進test.txt，利用訓練完的model來進行NER並把結果輸出成tsv檔(主辦方要求)
+讀進test.txt，利用訓練完的model來進行NER並把結果輸出成tsv檔
